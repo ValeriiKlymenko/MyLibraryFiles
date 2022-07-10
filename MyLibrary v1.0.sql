@@ -1,0 +1,1 @@
+SELECT * FROM mylibrary.Book WHERE idstatus = 1;
